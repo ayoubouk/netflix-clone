@@ -1,0 +1,88 @@
+@media screen and (max-width:1180px){
+  body{
+      /* color: red; */
+      /* width: 100%; */
+  }
+  .bg-netflex-body{
+      width: 90%;
+  }
+  .bg-netflex-body h1{
+      font-size: 33px;
+  }
+  .rowItem{
+      height: 100vh;
+      text-align: center;
+}
+.rowItem-h1{
+    font-size: 33px;
+    width: 100%;
+    
+}
+.rowItem-p{
+    margin: auto;
+}
+.video{
+    width: 100%;
+}
+.img{
+    width: 100%;
+}
+
+.TITLE{
+    font-size: 30px;
+    
+}
+
+.YoutebTrailer{
+    margin-left: 0;
+    width: 100%;
+}
+
+.sign-in-btn{
+    width: 70px;
+    margin-right:20px
+  }
+  .LOGO1{
+      font-size: 19px;
+  }
+ .LOGO{
+     margin-left: 22px;
+ }
+ .w-53{
+     font-size: 23px;
+ }
+ .w-54{
+     font-size: 40px;
+ }
+ .info{
+width: 88%;
+ }
+ .infoImg{
+     width:100%;
+     height: 300px;
+ }
+ .infoChild{
+     font-size:10px;
+ }
+ .rotation{
+     padding: 1px;
+ }
+ 
+ .fs20{
+     font-size: 13px;
+ }
+ .fs25{
+    font-size: 16px;
+}
+ 
+ .IteminfoImg{
+    padding-top: 50px;
+
+ }
+ .fs13{
+     font-size: 13px;
+ }
+ .title{
+     font-size: 22px;
+ }
+}
